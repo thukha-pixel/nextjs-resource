@@ -1,0 +1,15 @@
+npm install better-sqlite3
+
+node initdb.js (meals.db file ထွက်လာလိမ့်မယ်...)
+--------------------------------------------------
+
+npm install slugify
+npm install xss (cross site scripting attack ကို ကာကွယ်ဖို့...)
+
+--------------------------------------------------
+Production ပြောင်းချင်ရင်...
+npm run build
+
+Production code ကို run ချင်ရင်...
+npm start
+
